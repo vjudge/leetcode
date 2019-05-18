@@ -10,6 +10,7 @@
 * (四)26: https://github.com/vjudge/leetcode/tree/master/26.删除排序数组中的重复项  
 
 
+* (五)50.https://github.com/vjudge/leetcode/tree/master/50.Pow(x,n)
 
 * (五)169: https://github.com/vjudge/leetcode/tree/master/169.求众数
 
