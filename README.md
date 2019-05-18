@@ -1,5 +1,6 @@
 # leetcode
 
+* (五)1: https://github.com/vjudge/leetcode/tree/master/1.两数之和
 * (一)9: https://github.com/vjudge/leetcode/tree/master/9.回文数字
 
 * (二)13: https://github.com/vjudge/leetcode/tree/master/13.罗马数字转整数
