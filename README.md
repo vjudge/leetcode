@@ -15,4 +15,4 @@
 
 * (五)169: https://github.com/vjudge/leetcode/tree/master/169.求众数
 
-*
+* (六)566: https://github.com/vjudge/leetcode/tree/master/566.重塑矩阵
