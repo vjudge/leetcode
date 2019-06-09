@@ -3,7 +3,7 @@
  * @return {number}
  */
 
-// 超时代码
+// 方法一：超时代码
 var maxProfit = function(prices) {
     let  profits = []
     for (let it in prices) {
@@ -24,7 +24,7 @@ var maxProfit = function(prices) {
     return result
 }
 
-// 已经战胜 22.64 % 的 javascript 提交记录
+// 方法二：已经战胜22.64%的javascript 提交记录
 var maxProfit = function(prices) {
     let flag = true
     for (let i = 1; i < prices.length; i++) {
@@ -51,7 +51,7 @@ var maxProfit = function(prices) {
     return result
 }
 
-// 优化代码
+// 方法三：优化代码
 var maxProfit = function(prices) {
 }
 
