@@ -13,7 +13,9 @@
 * (0004)00026: https://github.com/vjudge/leetcode/tree/master/26.删除排序数组中的重复项  
 
 
-* (0005)00050.https://github.com/vjudge/leetcode/tree/master/50.Pow(x,n)
+* (0005)00050: https://github.com/vjudge/leetcode/tree/master/50.Pow(x,n)
+
+* (0058)00058: https://github.com/vjudge/leetcode/tree/master/58.最后一个单词的长度
 
 * (0010)00088: https://github.com/vjudge/leetcode/tree/master/88.合并两个有序数组
 
