@@ -17,7 +17,9 @@
 
 * (0058)00058: https://github.com/vjudge/leetcode/tree/master/58.最后一个单词的长度
 
-* (0010)00088: https://github.com/vjudge/leetcode/tree/master/88.合并两个有序数组
+* (0066)00066: https://github.com/vjudge/leetcode/tree/master/66.加一
+
+* (00)00088: https://github.com/vjudge/leetcode/tree/master/88.合并两个有序数组
 
 * ()00114: https://github.com/vjudge/leetcode/tree/master/114.二叉树展开为链表
 
