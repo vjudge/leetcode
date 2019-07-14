@@ -25,6 +25,8 @@
 
 * (0008)00121: https://github.com/vjudge/leetcode/tree/master/121.买卖股票的最佳时机
 
+* (0013)00167: https://github.com/vjudge/leetcode/tree/master/167.两数之和II-输入有序数组
+
 * (0005)00169: https://github.com/vjudge/leetcode/tree/master/169.求众数
 
 * (0009)00415: https://github.com/vjudge/leetcode/tree/master/415.字符串相加
