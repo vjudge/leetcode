@@ -29,6 +29,8 @@
 
 * (0005)00169: https://github.com/vjudge/leetcode/tree/master/169.求众数
 
+* (0014)00231: https://github.com/vjudge/leetcode/tree/master/231.2的幂
+
 * (0009)00415: https://github.com/vjudge/leetcode/tree/master/415.字符串相加
 
 * (0006)00566: https://github.com/vjudge/leetcode/tree/master/566.重塑矩阵
