@@ -31,6 +31,8 @@
 
 * (0014)00231: https://github.com/vjudge/leetcode/tree/master/231.2的幂
 
+* (0016)00349: https://github.com/vjudge/leetcode/tree/master/349.两个数组的交集
+
 * (0009)00415: https://github.com/vjudge/leetcode/tree/master/415.字符串相加
 
 * (0006)00566: https://github.com/vjudge/leetcode/tree/master/566.重塑矩阵
