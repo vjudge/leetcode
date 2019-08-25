@@ -31,6 +31,8 @@
 
 * (0014)00231: https://github.com/vjudge/leetcode/tree/master/231.2的幂
 
+* (0019)00342: https://github.com/vjudge/leetcode/tree/master/342.4的幂
+
 * (0018)00344: https://github.com/vjudge/leetcode/tree/master/344.反转字符串
 
 * (0016)00349: https://github.com/vjudge/leetcode/tree/master/349.两个数组的交集
