@@ -3,6 +3,7 @@
  * @param {string} T
  * @return {boolean}
  */
+// 战胜89%
 var backspaceCompare = function(S, T) {
     let sRst = handleStr(S)
     let tRst = handleStr(T)
