@@ -42,6 +42,8 @@
 
 * (0006) 00566: https://github.com/vjudge/leetcode/tree/master/566.重塑矩阵
 
+* (0080) 00844: https://github.com/vjudge/leetcode/tree/master/844.比较含退格的字符串
+
 * (0007) 00905: https://github.com/vjudge/leetcode/tree/master/905.按奇偶排序数组
 
 * (0024) 00961: https://github.com/vjudge/leetcode/tree/master/961.重复N次的元素
