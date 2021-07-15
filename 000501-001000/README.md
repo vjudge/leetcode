@@ -11,4 +11,6 @@
 ### []()
 ### [000961.重复N次的元素](https://github.com/vjudge/leetcode/tree/master/000961.重复N次的元素)
 ### []()
+### [000977.有序数组的平方](https://github.com/vjudge/leetcode/tree/master/000977.有序数组的平方)
+### []()
 
