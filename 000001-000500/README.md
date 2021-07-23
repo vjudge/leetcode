@@ -26,6 +26,8 @@
 ### []()
 ### [000121.买卖股票的最佳时机](https://github.com/vjudge/leetcode/tree/master/000121.买卖股票的最佳时机)
 ### []()
+### [000136.只出现一次的数字](https://github.com/vjudge/leetcode/tree/master/000136.只出现一次的数字)
+### []()
 ### [000167.两数之和II-输入有序数组](https://github.com/vjudge/leetcode/tree/master/000167.两数之和II-输入有序数组)
 ### []()
 ### [000169.求众数](https://github.com/vjudge/leetcode/tree/master/000169.求众数)
