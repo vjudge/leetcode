@@ -32,6 +32,8 @@
 ### []()
 ### [000169.求众数](https://github.com/vjudge/leetcode/tree/master/000169.求众数)
 ### []()
+### [000217.存在重复元素](https://github.com/vjudge/leetcode/tree/master/000217.存在重复元素)
+### []()
 ### [000231.2的幂](https://github.com/vjudge/leetcode/tree/master/000231.2的幂)
 ### []()
 ### [000278.第一个错误的版本](https://github.com/vjudge/leetcode/tree/master/000278.第一个错误的版本)
