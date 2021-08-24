@@ -20,6 +20,8 @@
 ### []()
 ### [000066.加一](https://github.com/vjudge/leetcode/tree/master/000001-000500/000066.加一)
 ### []()
+### [000070.爬楼梯](https://github.com/vjudge/leetcode/tree/master/000001-000500/000070.爬楼梯)
+### []()
 ### [000088.合并两个有序数组](https://github.com/vjudge/leetcode/tree/master/000001-000500/000088.合并两个有序数组)
 ### []()
 ### [000114.二叉树展开为链表](https://github.com/vjudge/leetcode/tree/master/000001-000500/000114.二叉树展开为链表)
@@ -37,6 +39,7 @@
 ### [000231.2的幂](https://github.com/vjudge/leetcode/tree/master/000001-000500/000231.2的幂)
 ### []()
 ### [000278.第一个错误的版本](https://github.com/vjudge/leetcode/tree/master/000001-000500/000278.第一个错误的版本)
+### [000279.完全平方数](https://github.com/vjudge/leetcode/tree/master/000001-000500/000279.完全平方数)
 ### []()
 ### [000342.4的幂](https://github.com/vjudge/leetcode/tree/master/000001-000500/000342.4的幂)
 ### []()
@@ -47,5 +50,3 @@
 ### []()
 ### [000415.字符串相加](https://github.com/vjudge/leetcode/tree/master/000001-000500/000415.字符串相加)
 ### []()
-
-
