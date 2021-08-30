@@ -34,6 +34,8 @@
 ### []()
 ### [000169.求众数](https://github.com/vjudge/leetcode/tree/master/000001-000500/000169.求众数)
 ### []()
+### [000202.快乐数](https://github.com/vjudge/leetcode/tree/master/000001-000500/000202.快乐数)
+### []()
 ### [000217.存在重复元素](https://github.com/vjudge/leetcode/tree/master/000001-000500/000217.存在重复元素)
 ### []()
 ### [000231.2的幂](https://github.com/vjudge/leetcode/tree/master/000001-000500/000231.2的幂)
