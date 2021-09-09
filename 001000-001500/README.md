@@ -7,4 +7,4 @@
 ### []()
 ### [001365.有多少小于当前数字的数字](https://github.com/vjudge/leetcode/tree/master/001000-001500/001365.有多少小于当前数字的数字)
 ### []()
-
+### [001480.一维数组的动态和](https://github.com/vjudge/leetcode/tree/master/001000-001500/001480.一维数组的动态和)
