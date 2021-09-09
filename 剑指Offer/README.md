@@ -3,7 +3,7 @@
 ### []()
 ### [0003.数组中重复的数字](https://github.com/vjudge/leetcode/tree/master/剑指Offer/0003.数组中重复的数字)
 ### []()
-### []()
+### [0010.I.斐波那契数列](https://github.com/vjudge/leetcode/tree/master/剑指Offer/0010.I.斐波那契数列)
 ### []()
 ### []()
 ### [0064.求1+2+…+n](https://github.com/vjudge/leetcode/tree/master/剑指Offer/0064.求1+2+…+n)
