@@ -1,9 +1,14 @@
 # leetcode
 
+### [000557.反转字符串中的单词III](https://github.com/vjudge/leetcode/tree/master/000501-001000/000557.反转字符串中的单词III)
 ### []()
 ### [000566.重塑矩阵](https://github.com/vjudge/leetcode/tree/master/000501-001000/000566.重塑矩阵)
-### []() 
+### []()
 ### [000704.二分查找](https://github.com/vjudge/leetcode/tree/master/000501-001000/000704.二分查找)
+### []()
+### []()
+### [000771.宝石与石头](https://github.com/vjudge/leetcode/tree/master/000501-001000/000771.宝石与石头)
+### []()
 ### []()
 ### [000844.比较含退格的字符串](https://github.com/vjudge/leetcode/tree/master/000501-001000/000844.比较含退格的字符串)
 ### []()
@@ -13,4 +18,3 @@
 ### []()
 ### [000977.有序数组的平方](https://github.com/vjudge/leetcode/tree/master/000501-001000/000977.有序数组的平方)
 ### []()
-
