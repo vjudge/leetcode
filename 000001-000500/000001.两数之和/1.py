@@ -1,6 +1,6 @@
 from typing import List
 
-# 方法一：用时28ms
+# 方法一：用时 28ms
 # 执行用时超过了 97%
 # 消耗内存超过了 45%
 class Solution:
