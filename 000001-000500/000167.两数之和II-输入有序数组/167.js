@@ -3,7 +3,9 @@
  * @param {number} target
  * @return {number[]}
  */
-// 战胜75.57%
+// 方法一：用时 68ms
+// 执行用时超过了 87%
+// 消耗内存超过了 76%
 var twoSum = function(numbers, target) {
     let i = 0
     let j = numbers.length - 1
