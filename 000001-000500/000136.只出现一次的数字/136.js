@@ -2,6 +2,9 @@
  * @param {number[]} nums
  * @return {number}
  */
+// 方法一：用时 76ms
+// 执行用时超过了 79%
+// 消耗内存超过了 75%
 var singleNumber = function(nums) {
     let result = 0
     for (let i = 0; i < nums.length; i++) {
