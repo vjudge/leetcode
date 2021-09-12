@@ -3,6 +3,9 @@
  * @param {number} target
  * @return {number[]}
  */
+// 方法一：用时84ms
+// 执行用时超过了 67%
+// 消耗内存超过了 97%
 var twoSum = function(nums, target) {
     let tmpNums = {}
     nums.forEach((num, i) => {
