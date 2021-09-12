@@ -3,7 +3,7 @@
 /**
 * Note: The returned array must be malloced, assume caller calls free().
 */
-// 方法一：用时92ms
+// 方法一：用时 92ms
 // 执行用时超过了 52%
 // 消耗内存超过了 85%
 int* twoSum(int* nums, int numsSize, int target, int* returnSize){
