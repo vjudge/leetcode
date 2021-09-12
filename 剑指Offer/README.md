@@ -8,6 +8,8 @@
 ### []()
 ### [0010.I.斐波那契数列](https://github.com/vjudge/leetcode/tree/master/剑指Offer/0010.I.斐波那契数列)
 ### []()
+### [0058.II.左旋转字符串](https://github.com/vjudge/leetcode/tree/master/剑指Offer/0058.II.左旋转字符串)
+### []()
 ### []()
 ### [0064.求1+2+…+n](https://github.com/vjudge/leetcode/tree/master/剑指Offer/0064.求1+2+…+n)
 ### []()
