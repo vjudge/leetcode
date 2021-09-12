@@ -1,6 +1,6 @@
 /**
  * Definition for isBadVersion()
- * 
+ *
  * @param {integer} version number
  * @return {boolean} whether the version is bad
  * isBadVersion = function(version) {
@@ -12,6 +12,9 @@
  * @param {function} isBadVersion()
  * @return {function}
  */
+// 方法一：用时 64ms
+// 执行用时超过了 90%
+// 消耗内存超过了 59%
 var solution = function(isBadVersion) {
     /**
      * @param {integer} n Total versions
