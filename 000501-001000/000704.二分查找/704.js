@@ -3,6 +3,9 @@
  * @param {number} target
  * @return {number}
  */
+// 方法一：用时 72ms
+// 执行用时超过了 79%
+// 消耗内存超过了 64%
 var search = function(nums, target) {
     let left = 0
     let right = nums.length
