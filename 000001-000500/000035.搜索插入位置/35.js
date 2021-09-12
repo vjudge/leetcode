@@ -3,6 +3,9 @@
  * @param {number} target
  * @return {number}
  */
+// 方法一：用时 60ms
+// 执行用时超过了 98%
+// 消耗内存超过了 84%
 var searchInsert = function(nums, target) {
     let left = 0
     let right = nums.length
