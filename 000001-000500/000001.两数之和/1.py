@@ -1,5 +1,8 @@
 from typing import List
 
+# 方法一：用时28ms
+# 执行用时超过了 97%
+# 消耗内存超过了 45%
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         ndist = dict()
