@@ -50,6 +50,8 @@
 ### []()
 ### [000169.多数元素](https://github.com/vjudge/leetcode/tree/master/000001-000500/000169.多数元素)
 ### []()
+### [000189.旋转数组](https://github.com/vjudge/leetcode/tree/master/000001-000500/000189.旋转数组)
+### []()
 ### [000202.快乐数](https://github.com/vjudge/leetcode/tree/master/000001-000500/000202.快乐数)
 ### []()
 ### [000217.存在重复元素](https://github.com/vjudge/leetcode/tree/master/000001-000500/000217.存在重复元素)
