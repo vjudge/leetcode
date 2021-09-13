@@ -2,6 +2,9 @@
  * @param {number[]} nums
  * @return {number[]}
  */
+// 方法一：用时 104ms
+// 执行用时超过了 91%
+// 消耗内存超过了 100%
 var sortedSquares = function(nums) {
     console.log(`init nums: `, JSON.stringify(nums))
     if (nums.length === 0) { return nums }
@@ -77,6 +80,3 @@ console.log(`result: `, sortedSquares([-7,-3,2,3,11]))
 console.log(`result: `, sortedSquares([0, 3, 5, 6, 9]))
 console.log(`result: `, sortedSquares([-5, -3, -2, -1, 0]))
 console.log(`result: `, sortedSquares([-10000,-9999,-7,-5,0,0,10000]))
-
-
-
