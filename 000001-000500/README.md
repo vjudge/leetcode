@@ -36,6 +36,8 @@
 ### []()
 ### [000075.颜色分类](https://github.com/vjudge/leetcode/tree/master/000001-000500/000075.颜色分类)
 ### []()
+### [000078.子集](https://github.com/vjudge/leetcode/tree/master/000001-000500/000078.子集)
+### []()
 ### [000088.合并两个有序数组](https://github.com/vjudge/leetcode/tree/master/000001-000500/000088.合并两个有序数组)
 ### []()
 ### [000114.二叉树展开为链表](https://github.com/vjudge/leetcode/tree/master/000001-000500/000114.二叉树展开为链表)
