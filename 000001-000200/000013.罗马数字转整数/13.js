@@ -2,6 +2,9 @@
  * @param {string} s
  * @return {number}
  */
+// 方法一：用时 124ms
+// 执行用时超过了 96%
+// 消耗内存超过了 40%
 var romanToInt = function(s) {
     if (s.length === 0) {
         return 0
