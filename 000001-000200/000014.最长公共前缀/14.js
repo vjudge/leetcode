@@ -2,6 +2,9 @@
  * @param {string[]} strs
  * @return {string}
  */
+// 方法一：用时 68ms
+// 执行用时超过了 94%
+// 消耗内存超过了 56%
 var longestCommonPrefix = function(strs) {
     if (!strs || !strs[0]) { return '' }
     if (strs.length === 1) { return strs[0] }
