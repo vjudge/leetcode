@@ -30,6 +30,32 @@ var hasCycle = function(head) {
   return false
 };
 
+// 方法二：用时 164ms
+// 执行用时超过了 9%
+// 消耗内存超过了 11%
+var hasCycle = function(head) {
+  try {
+    JSON.stringify(head)
+  } catch{
+    return true
+  }
+  return false
+}
+
+// 方法三：用时 超时
+// 执行用时超过了 85%
+// 消耗内存超过了 60%
+var hasCycle = function(head) {
+  let i = 0
+  let size = 100000
+  let pheade = head
+  while (i <= size) {
+    if(!pheade) { return false }
+    pheade = pheade.next
+  }
+  return true
+}
+
 function ListNode(val, next) {
   this.val = (val===undefined ? 0 : val)
   this.next = (next===undefined ? null : next)
