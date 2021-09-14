@@ -2,6 +2,9 @@
  * @param {string} s
  * @return {string}
  */
+// 方法一：用时 68ms
+// 执行用时超过了 99%
+// 消耗内存超过了
 var reverseWords = function(s) {
     let start = 0
     let result = []
