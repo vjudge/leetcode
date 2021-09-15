@@ -27,11 +27,17 @@
 // };
 
 
-// 方法二：用时 720ms
-// 执行用时超过了 87%
-// 消耗内存超过了 98%
+// 方法二：用时 88ms
+// 执行用时超过了 32%
+// 消耗内存超过了 50%
 var maxSubArray = function(nums) {
-
+  let pre = 0
+  let result = nums[0]
+    nums.forEach((x) => {
+        pre = Math.max(pre + x, x)
+        result = Math.max(result, pre)
+    })
+    return result
 }
 
 
