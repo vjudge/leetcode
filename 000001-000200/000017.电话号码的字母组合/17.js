@@ -2,9 +2,11 @@
  * @param {string} digits
  * @return {string[]}
  */
+// 方法一：用时 164ms
+// 执行用时超过了 87%
+// 消耗内存超过了 98%
 var letterCombinations = function (digits) {
   let letters =['', '', 'abc', 'def', 'ghi', 'jkl', 'mno', 'pqrs', 'tuv', 'wxyz']
-
 
 
 
