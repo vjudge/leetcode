@@ -2,7 +2,9 @@
  * @param {character[]} s
  * @return {void} Do not return anything, modify s in-place instead.
  */
-// 战胜57.05%
+// 方法一：用时 96ms
+// 执行用时超过了 85%
+// 消耗内存超过了 83%
 var reverseString = function(s) {
     if (!s || s.length < 2) {
         return s
