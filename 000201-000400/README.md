@@ -20,6 +20,8 @@
 ### []()
 ### [000283.移动零](https://github.com/vjudge/leetcode/tree/master/000201-000400/000283.移动零)
 ### []()
+### [000292.Nim游戏](https://github.com/vjudge/leetcode/tree/master/000201-000400/000292.Nim游戏)
+### []()
 ### [000338.比特位计数](https://github.com/vjudge/leetcode/tree/master/000201-000400/000338.比特位计数)
 ### []()
 ### [000342.4的幂](https://github.com/vjudge/leetcode/tree/master/000201-000400/000342.4的幂)
