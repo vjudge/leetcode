@@ -33,7 +33,9 @@
 //     return ary[n - 1]
 // };
 
-
+// 方法一：用时 72ms
+// 执行用时超过了 55%
+// 消耗内存超过了 71%
 var climbStairs = function(n) {
     if (n == 1) {
         return 1
