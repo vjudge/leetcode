@@ -28,6 +28,26 @@ var inorderTraversal = function(root) {
   return result
 };
 
+// // 方法二：用时 64ms
+// // 执行用时超过了 92%
+// // 消耗内存超过了 71%
+// var inorderTraversal = function(root) {
+//   let stacks = [root]
+//   let result = []
+//   while (stacks.length) {
+//     let curnode = stacks.pop()
+//     if (curnode.left) {
+//       stacks.push(curnode.left)
+//       continue
+//     }
+//     result.push(curnode.val)
+//     if (curnode.right) {
+//       stacks.push(curnode.right)
+//     }
+//   }
+//   return result
+// }
+
 
 function main(trvals) {
   let root = genTree(trvals)
