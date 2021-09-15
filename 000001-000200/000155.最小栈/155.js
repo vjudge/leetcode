@@ -15,7 +15,7 @@ var MinStack = function() {
  */
 MinStack.prototype.push = function(val) {
   this.stack.push(val)
-  this.min_stack.push(Math.min(this.min_stack[this.min_stack.length - 1], x))
+  this.min_stack.push(Math.min(this.min_stack[this.min_stack.length - 1], val))
 };
 
 /**
