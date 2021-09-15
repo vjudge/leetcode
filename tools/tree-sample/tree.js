@@ -4,12 +4,12 @@ function genTree (trvals) {
   let start = 1
   while (queue.length && start < trvals.length) {
     let curnode = queue.shift()
-    if (trvals[start]) {
+    if (trvals[start] != undefined) {
       curnode.left = new TreeNode(trvals[start])
       queue.push(curnode.left)
     }
     start ++
-    if (trvals[start]) {
+    if (trvals[start] != undefined) {
       curnode.right = new TreeNode(trvals[start])
       queue.push(curnode.right)
     }
