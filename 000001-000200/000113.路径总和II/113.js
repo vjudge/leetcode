@@ -11,9 +11,10 @@
  * @param {number} targetSum
  * @return {number[][]}
  */
-// 方法一：用时 84ms
+// 方法一: 用时 84ms
 // 执行用时超过了 74%
 // 消耗内存超过了 59%
+// 难度: 中等
 var pathSum = function(root, targetSum) {
   if (!root) { return [] }
 
