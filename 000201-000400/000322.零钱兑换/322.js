@@ -6,6 +6,7 @@
 // 方法一：用时 96ms
 // 执行用时超过了 96%
 // 消耗内存超过了 35%
+// 难度: 中等
 var coinChange = function(coins, amount) {
   if(!amount) {
     return 0
