@@ -1,4 +1,9 @@
 # 数据库
-### []()
+### [](https://github.com/vjudge/leetcode/tree/master/database/)
 ### [000175.组合两个表](https://github.com/vjudge/leetcode/tree/master/database/000175.组合两个表)
-### []()
+### [000176.第二高的薪水](https://github.com/vjudge/leetcode/tree/master/database/000176.第二高的薪水)
+### [](https://github.com/vjudge/leetcode/tree/master/database/)
+### [](https://github.com/vjudge/leetcode/tree/master/database/)
+### [](https://github.com/vjudge/leetcode/tree/master/database/)
+### [](https://github.com/vjudge/leetcode/tree/master/database/)
+### [](https://github.com/vjudge/leetcode/tree/master/database/)
