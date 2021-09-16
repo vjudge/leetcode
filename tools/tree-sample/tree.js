@@ -1,3 +1,8 @@
+function main (trvals, targetSum) {
+  let root = genTree(trvals)
+  return hasPathSum(root, targetSum)
+}
+
 function genTree (trvals) {
   let root = new TreeNode(trvals[0])
   let queue = [root]
