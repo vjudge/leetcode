@@ -2,7 +2,7 @@
 
 # 方法一: 用时353ms
 # 执行用时超过了 68%
-# 消耗内存超过了 
+# 难度: 简单
 select FirstName, LastName, City, State
 from Person p
 left join Address a
