@@ -5,6 +5,7 @@
 // 方法一：用时 120ms
 // 执行用时超过了 100%
 // 消耗内存超过了 71%
+// 难度: 中等
 var threeSum = function(nums) {
   if (nums.length < 3) { return [] }
   nums = nums.sort((a, b) => (a - b))
