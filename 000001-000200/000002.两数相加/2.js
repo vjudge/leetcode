@@ -8,6 +8,7 @@
 // 方法一：用时 124ms
 // 执行用时超过了 59%
 // 消耗内存超过了 75%
+// 难度: 中等
 function ListNode(val, next) {
   this.val = (val===undefined ? 0 : val)
   this.next = (next===undefined ? null : next)
