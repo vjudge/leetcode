@@ -5,6 +5,7 @@
 // 方法一：用时 536ms
 // 执行用时超过了 6%
 // 消耗内存超过了 0%
+// 难度: 中等
 // var lengthOfLongestSubstring = function(s) {
 //   if (s.length < 2) {
 //     return s.length
@@ -33,6 +34,7 @@
 // 方法二：用时 92ms
 // 执行用时超过了 80%
 // 消耗内存超过了 84%
+// 难度: 中等
 var lengthOfLongestSubstring = function(s) {
   if (s.length < 2) {
     return s.length
