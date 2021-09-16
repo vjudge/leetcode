@@ -5,6 +5,7 @@
 // 方法一：用时 96ms
 // 执行用时超过了 15%
 // 消耗内存超过了 70%
+// 难度: 中等
 var subsets = function(nums) {
   let result = [[]]
   for (let i = 0; i < nums.length; i++) {
