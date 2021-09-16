@@ -3,6 +3,7 @@
  * @param {number} n
  * @return {number}
  */
+// 难度: 中等
 var myPow = function(x, n) {
     if (n === 0) {
         return 1
