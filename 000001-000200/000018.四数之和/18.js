@@ -6,6 +6,7 @@
 // 方法一：用时 80ms
 // 执行用时超过了 96%
 // 消耗内存超过了 55%
+// 难度: 中等
 var fourSum = function(nums, target) {
   let result = []
   if (nums.length < 4) {
