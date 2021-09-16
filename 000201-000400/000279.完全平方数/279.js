@@ -2,6 +2,7 @@
  * @param {number} n
  * @return {number}
  */
+// 难度: 中等
 var numSquares = function(n) {
     let dp = new Array(n + 1).fill(n+1)
     dp[0] = 0
