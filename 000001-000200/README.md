@@ -52,6 +52,7 @@
 ### []()
 ### [000104.二叉树的最大深度](https://github.com/vjudge/leetcode/tree/master/000001-000200/000104.二叉树的最大深度)
 ### []()
+### [000112.路径总和](https://github.com/vjudge/leetcode/tree/master/000001-000200/000112.路径总和)
 ### [000113.路径总和II](https://github.com/vjudge/leetcode/tree/master/000001-000200/000113.路径总和II)
 ### [000114.二叉树展开为链表](https://github.com/vjudge/leetcode/tree/master/000001-000200/000114.二叉树展开为链表)
 ### []()
