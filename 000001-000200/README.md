@@ -47,7 +47,8 @@
 ### [](https://github.com/vjudge/leetcode/tree/master/000001-000200/)
 ### [000078.子集](https://github.com/vjudge/leetcode/tree/master/000001-000200/000078.子集)
 ### [](https://github.com/vjudge/leetcode/tree/master/000001-000200/)
-
+### [000083.删除排序链表中的重复元素](https://github.com/vjudge/leetcode/tree/master/000001-000200/000083.删除排序链表中的重复元素)
+### [](https://github.com/vjudge/leetcode/tree/master/000001-000200/)
 ### [000088.合并两个有序数组](https://github.com/vjudge/leetcode/tree/master/000001-000200/000088.合并两个有序数组)
 ### [](https://github.com/vjudge/leetcode/tree/master/000001-000200/)
 ### [000094.二叉树的中序遍历](https://github.com/vjudge/leetcode/tree/master/000001-000200/000094.二叉树的中序遍历)
