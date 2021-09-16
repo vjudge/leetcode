@@ -5,6 +5,7 @@
 // 方法一：用时 72ms
 // 执行用时超过了 96%
 // 消耗内存超过了 75%
+// 难度: 中等
 var merge = function(intervals) {
   if (intervals.length <= 1) {
     return intervals
