@@ -49,9 +49,9 @@ function main (trvals, ts) {
 }
 
 
-// console.log(main([5,4,8,11,null,13,4,7,2,null,null,5,1], 22))
-// console.log(main([1, 2, 3], 3))
-// console.log(main([-2, null, -3], -5))
+console.log(main([5, 4, 8, 11, null, 13, 4, 7, 2, null, null, 5, 1], 22))
+console.log(main([1, 2, 3], 3))
+console.log(main([-2, null, -3], -5))
 console.log(main([1, -2, -3, 1, 3, -2, null, -1], -1))
 
 
