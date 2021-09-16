@@ -6,6 +6,7 @@
 // 方法一：用时 100ms
 // 执行用时超过了 89%
 // 消耗内存超过了 56%
+// 难度: 中等
 var rotate = function(nums, k) {
   k = k % nums.length
   let rotlst = nums.splice(0, nums.length - k)
