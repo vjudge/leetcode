@@ -5,6 +5,7 @@
 // 方法一：用时 92ms
 // 执行用时超过了 11%
 // 消耗内存超过了 97%
+// 难度: 中等
 var sumNums = function(n) {
     return (1 + n) * n / 2
 };
@@ -12,6 +13,7 @@ var sumNums = function(n) {
 // 方法二：用时 64ms
 // 执行用时超过了 92%
 // 消耗内存超过了 85%
+// 难度: 中等
 var sumNums = function(n) {
     return (1 + n) * n >> 1
 };
