@@ -13,6 +13,7 @@
 // 方法一：用时 80ms
 // 执行用时超过了 46%
 // 消耗内存超过了 86%
+// 难度: 中等
 var removeNthFromEnd = function(head, n) {
   let prehead = head
   let khead = head
