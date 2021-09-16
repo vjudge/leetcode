@@ -5,6 +5,7 @@
 // 方法一：用时 64ms
 // 执行用时超过了 94%
 // 消耗内存超过了 53%
+// 难度: 中等
 // var sortColors = function(nums) {
 //   if (nums.length <= 1) {
 //     return nums
@@ -31,6 +32,7 @@
 // 方法二：用时 60ms
 // 执行用时超过了 98%
 // 消耗内存超过了 81%
+// 难度: 中等
 var sortColors = function(nums) {
   if (nums.length <= 1) {
     return nums
