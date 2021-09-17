@@ -16,8 +16,8 @@ var nextGreaterElement = function(nums1, nums2) {
     }
     monostack.push(nums2[i])
   }
-  // console.log('monostack: ', monostack)
-  // console.log('map: ', map)
+  console.log('monostack: ', monostack)
+  console.log('map: ', map)
   for (let i = 0; i < monostack.length; i++) {
     map.set(monostack[i], -1)
   }
@@ -30,3 +30,4 @@ var nextGreaterElement = function(nums1, nums2) {
 
 console.log(nextGreaterElement([4, 1, 2], [1, 3, 4, 2]))
 console.log(nextGreaterElement([2, 4], [1, 2, 3, 4]))
+console.log(nextGreaterElement([2, 10, 5, 4], [2, 3, 10, 5, 4, 8]))
