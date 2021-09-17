@@ -3,7 +3,9 @@
  * @param {string} num2
  * @return {string}
  */
-// 战胜88.26%
+// 方法一：用时 80ms
+// 执行用时超过了 70.53%
+// 消耗内存超过了 73.88%
 var addStrings = function(num1, num2) {
     let size1 = num1.length
     let size2 = num2.length
