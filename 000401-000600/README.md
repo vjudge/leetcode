@@ -17,6 +17,7 @@
 ### [](https://github.com/vjudge/leetcode/tree/master/000401-000600/)
 ### [000496.下一个更大元素I](https://github.com/vjudge/leetcode/tree/master/000401-000600/000496.下一个更大元素I)
 ### [](https://github.com/vjudge/leetcode/tree/master/000401-000600/)
+### [000503.下一个更大元素II](https://github.com/vjudge/leetcode/tree/master/000401-000600/000503.下一个更大元素II)
 ### [](https://github.com/vjudge/leetcode/tree/master/000401-000600/)
 ### [000509.斐波那契数](https://github.com/vjudge/leetcode/tree/master/000401-000600/000509.斐波那契数)
 ### [](https://github.com/vjudge/leetcode/tree/master/000401-000600/)
