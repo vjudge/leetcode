@@ -2,7 +2,9 @@
  * @param {number} n
  * @return {boolean}
  */
-// 战胜90.72%
+// 方法一：用时 80ms
+// 执行用时超过了 81%
+// 消耗内存超过了 79%
 var isPowerOfTwo = function(n) {
     if (n === 1 || n === 2) {
         return true
