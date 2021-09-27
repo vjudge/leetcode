@@ -2,6 +2,7 @@
  * @param {number[]} nums
  * @return {number}
  */
+// [0042.连续子数组的最大和](https://github.com/vjudge/leetcode/tree/master/剑指Offer/0042.连续子数组的最大和)
 // // 方法一：用时 720ms
 // // 执行用时超过了 87%
 // // 消耗内存超过了 98%
@@ -33,11 +34,11 @@
 var maxSubArray = function(nums) {
   let pre = 0
   let result = nums[0]
-    nums.forEach((x) => {
-        pre = Math.max(pre + x, x)
-        result = Math.max(result, pre)
-    })
-    return result
+  nums.forEach((x) => {
+    pre = Math.max(pre + x, x)
+    result = Math.max(result, pre)
+  })
+  return result
 }
 
 
