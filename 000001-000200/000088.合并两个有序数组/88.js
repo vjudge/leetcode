@@ -5,7 +5,9 @@
  * @param {number} n
  * @return {void} Do not return anything, modify nums1 in-place instead.
  */
-// 超过：80.76%
+// 方法一：用时 64ms
+// 执行用时超过了 92%
+// 消耗内存超过了 84%
 var merge = function(nums1, m, nums2, n) {
     let size = m + n - 1
     while (n > 0) {
