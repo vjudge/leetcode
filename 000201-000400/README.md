@@ -49,3 +49,5 @@
 ### [000349.两个数组的交集](https://github.com/vjudge/leetcode/tree/master/000201-000400/000349.两个数组的交集)
 ### [000350.两个数组的交集II](https://github.com/vjudge/leetcode/tree/master/000201-000400/000350.两个数组的交集II)
 ### [](https://github.com/vjudge/leetcode/tree/master/000201-000400/)
+### [](https://github.com/vjudge/leetcode/tree/master/000201-000400/)
+### [000394.字符串解码](https://github.com/vjudge/leetcode/tree/master/000201-000400/000394.字符串解码)
