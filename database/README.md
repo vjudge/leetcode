@@ -9,7 +9,7 @@
 ### [000181.超过经理收入的员工](https://github.com/vjudge/leetcode/tree/master/database/)
 ### [000182.查找重复的电子邮箱](https://github.com/vjudge/leetcode/tree/master/database/)
 ### [000183.从不订购的客户](https://github.com/vjudge/leetcode/tree/master/database/)
-### [000184.部门工资最高的员工](https://github.com/vjudge/leetcode/tree/master/database/)
+### [000184.部门工资最高的员工](https://github.com/vjudge/leetcode/tree/master/database/000184.部门工资最高的员工)
 ### [000185.部门工资前三高的所有员工](https://github.com/vjudge/leetcode/tree/master/database/)
 ### [](https://github.com/vjudge/leetcode/tree/master/database/)
 ### [](https://github.com/vjudge/leetcode/tree/master/database/)
