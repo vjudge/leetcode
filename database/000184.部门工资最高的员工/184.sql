@@ -2,7 +2,7 @@
 # 方法一: 745ms
 # 执行用时超过了 29.61%
 # 消耗内存超过了 100%
-# 难度: 简单
+# 难度: 中等
 SELECT d.Name Department, e.Name Employee, Salary
 FROM
 Employee e
