@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-// 方法二: 用时 4ms
+// 方法一: 用时 4ms
 // 执行用时超过了 73%
 // 消耗内存超过了 99%
 func arrangeCoins(n int) int {
