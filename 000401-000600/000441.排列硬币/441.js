@@ -3,7 +3,7 @@
  * @return {number}
  */
 
- // 方法二: 用时 88ms
+ // 方法一: 用时 88ms
  // 执行用时超过了 87%
  // 消耗内存超过了 18%
 var arrangeCoins = function(n) {
