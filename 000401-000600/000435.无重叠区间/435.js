@@ -17,7 +17,7 @@ var eraseOverlapIntervals = function(intervals) {
   for (let i = 1; i < intervals.length; i++) {
     if (intervals[i][0] >= curLast) {
       ret ++
-      curLast = intervals[i][1];
+      curLast = intervals[i][1]
     }
   }
   return intervals.length - ret
