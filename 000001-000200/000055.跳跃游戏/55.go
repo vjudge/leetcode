@@ -5,6 +5,7 @@ import "fmt"
 // 方法一: 用时 56ms
 // 执行用时超过了 82%
 // 消耗内存超过了 64%
+// 难度: 中等
 func canJump(nums []int) bool {
 	ret := 0
 	for i := 0; i < len(nums); i++ {
