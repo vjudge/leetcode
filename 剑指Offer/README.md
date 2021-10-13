@@ -9,6 +9,7 @@
 ### [](https://github.com/vjudge/leetcode/tree/master/剑指Offer/)
 ### [](https://github.com/vjudge/leetcode/tree/master/剑指Offer/)
 ### [0010.I.斐波那契数列](https://github.com/vjudge/leetcode/tree/master/剑指Offer/0010.I.斐波那契数列)
+### [0010.II.青蛙跳台阶问题](https://github.com/vjudge/leetcode/tree/master/剑指Offer/0010.II.青蛙跳台阶问题)
 ### [](https://github.com/vjudge/leetcode/tree/master/剑指Offer/)
 ### [0024.反转链表](https://github.com/vjudge/leetcode/tree/master/剑指Offer/0024.反转链表)
 ### [0025.合并两个排序的链表](https://github.com/vjudge/leetcode/tree/master/剑指Offer/0025.合并两个排序的链表)
