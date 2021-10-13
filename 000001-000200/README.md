@@ -54,7 +54,7 @@
 ### [](https://github.com/vjudge/leetcode/tree/master/000001-000200/)
 ### [000053.最大子序和](https://github.com/vjudge/leetcode/tree/master/000001-000200/000053.最大子序和)
 ### [](https://github.com/vjudge/leetcode/tree/master/000001-000200/)
-### [](https://github.com/vjudge/leetcode/tree/master/000001-000200/)
+### [000055.跳跃游戏](https://github.com/vjudge/leetcode/tree/master/000001-000200/000055.跳跃游戏)
 ### [000056.合并区间](https://github.com/vjudge/leetcode/tree/master/000001-000200/000056.合并区间)
 ### [](https://github.com/vjudge/leetcode/tree/master/000001-000200/)
 ### [000058.最后一个单词的长度](https://github.com/vjudge/leetcode/tree/master/000001-000200/000058.最后一个单词的长度)
