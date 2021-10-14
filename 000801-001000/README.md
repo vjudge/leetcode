@@ -6,6 +6,8 @@
 ### [000844.比较含退格的字符串](https://github.com/vjudge/leetcode/tree/master/000801-001000/000844.比较含退格的字符串)
 ### [](https://github.com/vjudge/leetcode/tree/master/000801-001000/)
 ### [](https://github.com/vjudge/leetcode/tree/master/000801-001000/)
+### [000852.山脉数组的峰顶索引](https://github.com/vjudge/leetcode/tree/master/000801-001000/000852.山脉数组的峰顶索引)
+### [](https://github.com/vjudge/leetcode/tree/master/000801-001000/)
 ### [000860.柠檬水找零](https://github.com/vjudge/leetcode/tree/master/000801-001000/000860.柠檬水找零)
 ### [](https://github.com/vjudge/leetcode/tree/master/000801-001000/)
 ### [](https://github.com/vjudge/leetcode/tree/master/000801-001000/)
