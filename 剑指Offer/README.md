@@ -24,7 +24,7 @@
 ### [](https://github.com/vjudge/leetcode/tree/master/剑指Offer/)
 ### [0064.求1+2+…+n](https://github.com/vjudge/leetcode/tree/master/剑指Offer/0064.求1+2+…+n)
 ### [](https://github.com/vjudge/leetcode/tree/master/剑指Offer/)
-### [](https://github.com/vjudge/leetcode/tree/master/剑指Offer/)
+### [0069.山峰数组的顶部](https://github.com/vjudge/leetcode/tree/master/剑指Offer/0069.山峰数组的顶部)
 ### [](https://github.com/vjudge/leetcode/tree/master/剑指Offer/)
 ### [](https://github.com/vjudge/leetcode/tree/master/剑指Offer/)
 ### [](https://github.com/vjudge/leetcode/tree/master/剑指Offer/)
