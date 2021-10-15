@@ -2,7 +2,9 @@
  * @param {number[]} nums
  * @return {number[]}
  */
-// 战胜55.015%
+// 方法一：用时 84 ms
+// 执行用时超过了 78 %
+// 消耗内存超过了 71 %
 var smallerNumbersThanCurrent = function(nums) {
     let result = []
     for (let i = 0; i < nums.length; i++) {
