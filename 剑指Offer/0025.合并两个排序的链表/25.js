@@ -16,9 +16,10 @@ function ListNode(val, next) {
  * @param {ListNode} l2
  * @return {ListNode}
  */
-// 方法一：用时 88ms
-// 执行用时超过了 85%
-// 消耗内存超过了 72%
+// 方法一：用时 88 ms
+// 执行用时超过了 85 %
+// 消耗内存超过了 72 %
+// 难度: 简单
 var mergeTwoLists = function(l1, l2) {
   let result = null
   let rhead = result

@@ -2,9 +2,10 @@ package main
 
 import "fmt"
 
-// 方法一：用时 4ms
-// 执行用时超过了 96%
-// 消耗内存超过了 70%
+// 方法一：用时 4 ms
+// 执行用时超过了 96 %
+// 消耗内存超过了 70 %
+// 难度: 简单
 func mergeTwoLists(l1 *ListNode, l2 *ListNode) *ListNode {
 	if l2 == nil {
 		return l1
