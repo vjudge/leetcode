@@ -2,12 +2,12 @@
  * @param {number[][]} matrix
  * @return {void} Do not return anything, modify matrix in-place instead.
  */
-// 方法一：用时 60 ms
-// 执行用时超过了 98 %
-// 消耗内存超过了 92 %
+// 方法一：用时 64 ms
+// 执行用时超过了 91 %
+// 消耗内存超过了 74 %
 // 难度: 中等
-// 同: https://leetcode-cn.com/problems/rotate-matrix-lcci
-// 同:
+// 同: https://leetcode-cn.com/problems/rotate-image
+// 同: https://github.com/vjudge/leetcode/tree/master/000001-000200/000048.旋转图像
 var rotate = function(matrix) {
     let length = matrix.length
     // 水平翻转
