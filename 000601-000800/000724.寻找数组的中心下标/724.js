@@ -2,9 +2,9 @@
  * @param {number[]} nums
  * @return {number}
  */
-// 方法一：用时 72 ms
-// 执行用时超过了 78 %
-// 消耗内存超过了 29 %
+// 方法一：用时 88 ms
+// 执行用时超过了 61 %
+// 消耗内存超过了 85 %
 // 难度: 简单
 var pivotIndex = function(nums) {
     let sum = 0
