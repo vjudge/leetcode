@@ -1,11 +1,11 @@
 package main
 
-// 方法一：用时 12 ms
-// 执行用时超过了 81 %
-// 消耗内存超过了 79 %
+// 方法一：用时 8 ms
+// 执行用时超过了 100 %
+// 消耗内存超过了 84 %
 // 难度: 中等
-// 同: https://leetcode-cn.com/problems/zero-matrix-lcci
-// 同: https://github.com/vjudge/leetcode/tree/master/程序员面试金典(第6版)/01.0008.零矩阵
+// 同: https://leetcode-cn.com/problems/set-matrix-zeroes/submissions
+// 同: https://github.com/vjudge/leetcode/tree/master/000001-000200/000073.矩阵置零
 func setZeroes(matrix [][]int)  {
 	row := make([]bool, len(matrix))
 	col := make([]bool, len(matrix[0]))
@@ -27,11 +27,11 @@ func setZeroes(matrix [][]int)  {
 }
 
 // 方法二：用时 12 ms
-// 执行用时超过了 81 %
-// 消耗内存超过了 54 %
+// 执行用时超过了 87 %
+// 消耗内存超过了 50 %
 // 难度: 中等
-// 同: https://leetcode-cn.com/problems/zero-matrix-lcci
-// 同: https://github.com/vjudge/leetcode/tree/master/程序员面试金典(第6版)/01.0008.零矩阵
+// 同: https://leetcode-cn.com/problems/set-matrix-zeroes/submissions
+// 同: https://github.com/vjudge/leetcode/tree/master/000001-000200/000073.矩阵置零
 func setZeroes(matrix [][]int)  {
 	rowFlag := false
 	for i := 0; i < len(matrix[0]); i++ {
