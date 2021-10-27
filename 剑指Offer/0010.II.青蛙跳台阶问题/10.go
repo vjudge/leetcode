@@ -4,7 +4,8 @@ import "fmt"
 
 // 方法一: 用时 0 ms
 // 执行用时超过了 100 %
-// 消耗内存超过了 73.3 %
+// 消耗内存超过了 74 %
+// 难度: 简单
 func numWays(n int) int {
 	if n < 2 {
 		return 1

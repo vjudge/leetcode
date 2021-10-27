@@ -2,9 +2,10 @@
  * @param {number} n
  * @return {number}
  */
- // 方法一: 用时 64 ms
- // 执行用时超过了 85 %
- // 消耗内存超过了 92 %
+// 方法一: 用时 64 ms
+// 执行用时超过了 85 %
+// 消耗内存超过了 92 %
+// 难度: 简单
 var numWays = function(n) {
   if (n < 2) {
     return 1
