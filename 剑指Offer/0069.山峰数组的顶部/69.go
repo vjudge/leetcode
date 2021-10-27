@@ -5,6 +5,7 @@ import "fmt"
 //方法一: 用时 8 ms
 // 执行用时超过了 83 %
 // 消耗内存超过了 100 %
+// 难度: 简单
 func peakIndexInMountainArray(arr []int) int {
 	ret := 1
 	for ;ret < len(arr); ret ++ {

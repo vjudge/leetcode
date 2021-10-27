@@ -3,9 +3,10 @@
  * @return {number}
  */
 
- //方法一: 用时 68 ms
- // 执行用时超过了 77 %
- // 消耗内存超过了 69 %
+//方法一: 用时 68 ms
+// 执行用时超过了 77 %
+// 消耗内存超过了 69 %
+// 难度: 简单
 var peakIndexInMountainArray = function(arr) {
   let i = 1
   while (i < arr.length) {
