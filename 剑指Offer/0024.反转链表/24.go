@@ -9,9 +9,10 @@ import "fmt"
  *     Next *ListNode
  * }
  */
-// 方法一：用时 0ms
-// 执行用时超过了 100%
-// 消耗内存超过了 68%
+// 方法一：用时 0 ms
+// 执行用时超过了 100 %
+// 消耗内存超过了 68 %
+// 难度: 简单
 func reverseList(head *ListNode) *ListNode {
 	if head == nil || head.Next == nil {
 		return head

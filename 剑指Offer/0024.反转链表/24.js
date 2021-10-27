@@ -9,9 +9,10 @@
  * @param {ListNode} head
  * @return {ListNode}
  */
-// 方法一：用时 80ms
-// 执行用时超过了 31%
-// 消耗内存超过了 71%
+// 方法一：用时 80 ms
+// 执行用时超过了 31 %
+// 消耗内存超过了 71 %
+// 难度: 简单
 var reverseList = function(head) {
   let prev = null
   let curr_head = head
