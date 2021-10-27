@@ -72,7 +72,7 @@
 ### [000070.爬楼梯](https://github.com/vjudge/leetcode/tree/master/000001-000200/000070.爬楼梯)
 ### [](https://github.com/vjudge/leetcode/tree/master/000001-000200/)
 ### [](https://github.com/vjudge/leetcode/tree/master/000001-000200/)
-### [](https://github.com/vjudge/leetcode/tree/master/000001-000200/)
+### [000073.矩阵置零](https://github.com/vjudge/leetcode/tree/master/000001-000200/000073.矩阵置零)
 ### [](https://github.com/vjudge/leetcode/tree/master/000001-000200/)
 ### [000075.颜色分类](https://github.com/vjudge/leetcode/tree/master/000001-000200/000075.颜色分类)
 ### [000076.最小覆盖子串](https://github.com/vjudge/leetcode/tree/master/000001-000200/000076.最小覆盖子串)
