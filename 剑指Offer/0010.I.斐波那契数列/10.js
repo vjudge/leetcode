@@ -2,9 +2,10 @@
  * @param {number} n
  * @return {number}
  */
-// 方法：用时 72ms
-// 执行用时超过了 57%
-// 消耗内存超过了 18%
+// 方法：用时 72 ms
+// 执行用时超过了 57 %
+// 消耗内存超过了 18 %
+// 难度: 简单
 var fib = function(n) {
   if (n == 0) { return 0 }
   if (n == 1) { return 1 }
