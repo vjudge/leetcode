@@ -2,9 +2,10 @@ package main
 
 import "fmt"
 
-// 方法一：用时 40ms
-// 执行用时超过了 13%
-// 消耗内存超过了 11%
+// 方法一：用时 40 ms
+// 执行用时超过了 13 %
+// 消耗内存超过了 11 %
+// 难度: 简单
 func reversePrint (head *ListNode) []int {
 	ret := []int{}
 	for ; head != nil; {
@@ -14,9 +15,10 @@ func reversePrint (head *ListNode) []int {
 	return ret
 }
 
-// 方法二：用时 0ms
-// 执行用时超过了 100%
-// 消耗内存超过了 91%
+// 方法二：用时 0 ms
+// 执行用时超过了 100 %
+// 消耗内存超过了 91 %
+// 难度: 简单
 func reversePrint (head *ListNode) []int {
 	ret := []int{}
 	for ; head != nil; {
