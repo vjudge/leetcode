@@ -6,6 +6,8 @@ import "fmt"
 // 执行用时超过了 71 %
 // 消耗内存超过了 67 %
 // 难度: 简单
+// 同: https://leetcode-cn.com/problems/find-the-middle-index-in-array
+// 同: https://github.com/vjudge/leetcode/tree/master/001801-002000/001991.找到数组的中间位置
 func pivotIndex(nums []int) int {
 	sum := 0
 	for _, num := range nums {
