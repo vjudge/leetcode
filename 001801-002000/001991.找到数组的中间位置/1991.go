@@ -6,6 +6,8 @@ import "fmt"
 // 执行用时超过了 100 %
 // 消耗内存超过了 79 %
 // 难度: 简单
+// 同: https://leetcode-cn.com/problems/find-pivot-index
+// 同: https://github.com/vjudge/leetcode/tree/master/000601-000800/000724.寻找数组的中心下标
 func findMiddleIndex (nums []int) int {
 	sum := 0
 	for _, num := range nums {
