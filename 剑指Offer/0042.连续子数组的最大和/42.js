@@ -2,10 +2,12 @@
  * @param {number[]} nums
  * @return {number}
  */
-// [000053.最大子序和](https://github.com/vjudge/leetcode/tree/master/000001-000200/000053.最大子序和)
-// 方法一：用时 720ms
-// 执行用时超过了 87%
-// 消耗内存超过了 98%
+
+// 方法一：用时 720 ms
+// 执行用时超过了 87 %
+// 消耗内存超过了 98 %
+// 难度: 简单
+// 同: https://github.com/vjudge/leetcode/tree/master/000001-000200/000053.最大子序和
 var maxSubArray = function(nums) {
   let sums = [nums[0]]
   let result = nums[0]
