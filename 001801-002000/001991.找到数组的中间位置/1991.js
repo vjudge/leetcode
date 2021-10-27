@@ -6,7 +6,7 @@
 // 执行用时超过了 78 %
 // 消耗内存超过了 29 %
 // 难度: 简单
-var pivotIndex = function(nums) {
+var findMiddleIndex = function(nums) {
     let sum = 0
     for (const num of nums) {
         sum += num
@@ -21,10 +21,10 @@ var pivotIndex = function(nums) {
     return -1
 }
 
-console.log(pivotIndex([1, 7, 3, 6, 5, 6]))
-console.log(pivotIndex([1, 2, 3]))
-console.log(pivotIndex([2, 1, -1]))
-console.log(pivotIndex([2, 3, -1, 8, 4]))
-console.log(pivotIndex([1, -1, 4]))
-console.log(pivotIndex([2, 5]))
-console.log(pivotIndex([1]))
+console.log(findMiddleIndex([1, 7, 3, 6, 5, 6]))
+console.log(findMiddleIndex([1, 2, 3]))
+console.log(findMiddleIndex([2, 1, -1]))
+console.log(findMiddleIndex([2, 3, -1, 8, 4]))
+console.log(findMiddleIndex([1, -1, 4]))
+console.log(findMiddleIndex([2, 5]))
+console.log(findMiddleIndex([1]))
