@@ -3,9 +3,10 @@
  * @param {number} n
  * @return {string}
  */
-// 方法一：用时 76ms
-// 执行用时超过了 54%
-// 消耗内存超过了 15%
+// 方法一：用时 76 ms
+// 执行用时超过了 54 %
+// 消耗内存超过了 15 %
+// 难度: 简单
 var reverseLeftWords = function(s, n) {
   let result = []
   for (let i = n; i < s.length; i ++) {
