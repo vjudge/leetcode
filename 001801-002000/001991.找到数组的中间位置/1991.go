@@ -6,7 +6,7 @@ import "fmt"
 // 执行用时超过了 100 %
 // 消耗内存超过了 79 %
 // 难度: 简单
-func pivotIndex(nums []int) int {
+func findMiddleIndex (nums []int) int {
 	sum := 0
 	for _, num := range nums {
 		sum += num
@@ -22,11 +22,11 @@ func pivotIndex(nums []int) int {
 }
 
 func main ()  {
-	fmt.Println(pivotIndex([]int{1, 7, 3, 6, 5, 6}))
-	fmt.Println(pivotIndex([]int{1, 2, 3}))
-	fmt.Println(pivotIndex([]int{2, 1, -1}))
-	fmt.Println(pivotIndex([]int{2, 3, -1, 8, 4}))
-	fmt.Println(pivotIndex([]int{1, -1, 4}))
-	fmt.Println(pivotIndex([]int{2, 5}))
-	fmt.Println(pivotIndex([]int{1}))
+	fmt.Println(findMiddleIndex([]int{1, 7, 3, 6, 5, 6}))
+	fmt.Println(findMiddleIndex([]int{1, 2, 3}))
+	fmt.Println(findMiddleIndex([]int{2, 1, -1}))
+	fmt.Println(findMiddleIndex([]int{2, 3, -1, 8, 4}))
+	fmt.Println(findMiddleIndex([]int{1, -1, 4}))
+	fmt.Println(findMiddleIndex([]int{2, 5}))
+	fmt.Println(findMiddleIndex([]int{1}))
 }
