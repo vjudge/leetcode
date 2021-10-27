@@ -2,9 +2,9 @@ package main
 
 import "fmt"
 
-// 方法一：用时 20 ms
-// 执行用时超过了 71 %
-// 消耗内存超过了 67 %
+// 方法一：用时 0 ms
+// 执行用时超过了 100 %
+// 消耗内存超过了 79 %
 // 难度: 简单
 func pivotIndex(nums []int) int {
 	sum := 0
