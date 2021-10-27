@@ -6,6 +6,8 @@
 // 执行用时超过了 61 %
 // 消耗内存超过了 85 %
 // 难度: 简单
+// 同: https://leetcode-cn.com/problems/find-the-middle-index-in-array
+// 同: https://github.com/vjudge/leetcode/tree/master/001801-002000/001991.找到数组的中间位置
 var pivotIndex = function(nums) {
     let sum = 0
     for (const num of nums) {
