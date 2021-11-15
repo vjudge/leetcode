@@ -2,9 +2,10 @@
  * @param {number[]} nums
  * @return {number}
  */
-// 方法一：用时 64ms
-// 执行用时超过了 98%
-// 消耗内存超过了 79%
+// 方法一: 用时 64 ms
+// 执行用时超过了 98 %
+// 消耗内存超过了 79 %
+// 难度: 简单
 var majorityElement = function(nums) {
     let mergeNums = {}
     nums.forEach(num => {
