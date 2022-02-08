@@ -1,5 +1,11 @@
 # leetcode
 
+## [剑指Offer](https://github.com/vjudge/leetcode/tree/master/剑指Offer)
+
+## [剑指OfferII](https://github.com/vjudge/leetcode/tree/master/剑指OfferII)
+
+## [程序员面试金典(第6版)](https://github.com/vjudge/leetcode/tree/master/程序员面试金典(第6版))
+
 ## [000001-000200](https://github.com/vjudge/leetcode/tree/master/000001-000200/README.md)
 
 ## [000201-000400](https://github.com/vjudge/leetcode/tree/master/000201-000400/README.md)
